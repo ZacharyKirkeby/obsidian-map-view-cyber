@@ -1,8 +1,8 @@
 {
-    "id": "obsidian-map-view",
-    "name": "Map View",
+    "id": "obsidian-map-view-cyber",
+    "name": "Map View - Cyber",
     "version": "5.0.3",
     "minAppVersion": "1.5.6",
-    "description": "An interactive map view.",
+    "description": "An interactive map view tweaked for cyber.",
     "isDesktopOnly": false
 }

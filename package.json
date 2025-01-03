@@ -1,7 +1,7 @@
 {
-    "name": "obsidian-map-view",
+    "name": "obsidian-map-view-cyber",
     "version": "5.0.3",
-    "description": "An interactive map view for Obsidian.md",
+    "description": "An interactive map view for Obsidian.md tweaked for cybersecurity",
     "main": "main.js",
     "scripts": {
         "dev": "rollup --config rollup.config.js -w --environment BUILD:development",

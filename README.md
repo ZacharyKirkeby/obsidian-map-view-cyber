@@ -1,6 +1,21 @@
 # Obsidian.md Map View
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/esm7)
+This is a fork of the Interactive Map View plugin for Obsidian. This varient is designed to better represent and parse threat intelligence, system data, and geolinking between networks and entities. The borader purpose is to incorporate aspects of the spider map while maintaining geographical plotting to show the relations between systems. 
+
+## TODO
+
+- [ ] Structural Changes
+    - [ ] Change Data Params
+    - [ ] Linking between locations is visible
+    - [ ] Other stuff TBD
+- [ ] Visual Things
+    - [ ] Change symbols
+    - [ ] Change coloring bc why not
+    - [ ] change images in readme
+- [ ] change readme to reflect changes and my respective insanity
+
+
+## Original Plugin info below
 
 <!--ts-->
 
